@@ -21,6 +21,6 @@ function makeInt(a) {
   return a
 }
 function makeInt(a){
-  parseFloat('a', 10)
+  pparseFloat('80.123999')
   return a 
 }
