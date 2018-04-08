@@ -2,7 +2,7 @@ function add() {
   return a + b
 }
 function subtract(){
-  retunr a - b
+  return a - b
 }
 function multiply(){
   return a * b
