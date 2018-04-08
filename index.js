@@ -22,5 +22,5 @@ function makeInt(a) {
 }
 function makeInt(a){
   parseInt('a', 10)
-  return a * 0
+  return a * 2328
 }
