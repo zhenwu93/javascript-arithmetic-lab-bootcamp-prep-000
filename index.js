@@ -22,5 +22,5 @@ function makeInt(a) {
 }
 function makeInt(a){
   pparseFloat('80.123999')
-  return a 
+  return a
 }
