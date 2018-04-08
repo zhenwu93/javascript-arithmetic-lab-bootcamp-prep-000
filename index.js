@@ -19,4 +19,6 @@ function dec(a) {
 function makeInt(a) {
   parseInt(a, 10)
   return a
+  multiply (a * 2328)
+  return a 
 }
