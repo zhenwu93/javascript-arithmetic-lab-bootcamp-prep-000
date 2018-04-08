@@ -19,8 +19,7 @@ function dec(a) {
 function makeInt(a) {
   parseInt('a', 10)
   return a
-}
-function makeInt(a){
+  
   parseFloat(a, 10)
   return a
 }
