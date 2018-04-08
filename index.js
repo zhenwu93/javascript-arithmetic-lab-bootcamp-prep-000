@@ -20,6 +20,6 @@ function makeInt(a) {
   parseInt('a', 10)
   return a
 
-  parseFloat(a, 10)
+  parseFloat('a', 10)
   return a
 }
